@@ -1,6 +1,7 @@
 # GU-ANLY511-FinalProject
 
 ![alt text](https://images.ctfassets.net/p6ae3zqfb1e3/6ylveQMxcXZPt56qTFRkBy/5a32ac003841b2ea92c17ef5c8ef1188/bike.png?w=1500&q=60&fm=webp)
+![alt text](https://images.ctfassets.net/p6ae3zqfb1e3/6xoQ6kFIZT6zv15X2vjnR4/25cdde523306db3c1e12ae5b32a65c87/Watson-WDC.png?w=1500&q=60&fm=webp)
 
 This repository is intended for documenting Team 18's codes and outputs for the ANLY511 Project.
 
