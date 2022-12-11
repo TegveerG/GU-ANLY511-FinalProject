@@ -14,3 +14,5 @@ Our research project aims to answer the following questions:
 5. Are electric bikes used to travel further distances than classic bikes?
 6. Do members have a different split of electric vs. classic bikes than casual riders?
 7. How do member type, bike type, and ride distance impact ride duration? 
+
+Team Members: Tegveer Ghura, Ahmed Khair, Anthony Moubarak, Raghav Sharma, Karan Uppal (MS in Data Science 2024)
